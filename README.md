@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav24hub/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sourav24hub/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Sourav24hub/Leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Sourav24hub/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Sourav24hub/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sourav24hub/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sourav24hub/Leetcode/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sourav24hub/Leetcode/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/Sourav24hub/Leetcode/tree/master/0367-valid-perfect-square) |
 | [2235-add-two-integers](https://github.com/Sourav24hub/Leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
