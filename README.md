@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sourav24hub/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourav24hub/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Sourav24hub/Leetcode/tree/master/0704-binary-search) |
+| [0881-boats-to-save-people](https://github.com/Sourav24hub/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Sourav24hub/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sourav24hub/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1089-duplicate-zeros](https://github.com/Sourav24hub/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav24hub/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sourav24hub/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Sourav24hub/Leetcode/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/Sourav24hub/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Sourav24hub/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Sourav24hub/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Simulation
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sourav24hub/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sourav24hub/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sourav24hub/Leetcode/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/Sourav24hub/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Sourav24hub/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sourav24hub/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Sourav24hub/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Sourav24hub/Leetcode/tree/master/0704-binary-search) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Sourav24hub/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
