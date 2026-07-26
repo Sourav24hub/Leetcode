@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sourav24hub/Leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/Sourav24hub/Leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
