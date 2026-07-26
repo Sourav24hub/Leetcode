@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sourav24hub/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Sourav24hub/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Sourav24hub/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sourav24hub/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2235-add-two-integers](https://github.com/Sourav24hub/Leetcode/tree/master/2235-add-two-integers) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sourav24hub/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Sourav24hub/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Sourav24hub/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Sourav24hub/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
