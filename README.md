@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Sourav24hub/Leetcode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Sourav24hub/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sourav24hub/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1089-duplicate-zeros](https://github.com/Sourav24hub/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1732-find-the-highest-altitude](https://github.com/Sourav24hub/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Sourav24hub/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sourav24hub/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Sourav24hub/Leetcode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Sourav24hub/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1089-duplicate-zeros](https://github.com/Sourav24hub/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Simulation
 |  |
 | ------- |
