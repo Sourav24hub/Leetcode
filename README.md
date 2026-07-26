@@ -66,5 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Sourav24hub/Leetcode/tree/master/0367-valid-perfect-square) |
 | [2235-add-two-integers](https://github.com/Sourav24hub/Leetcode/tree/master/2235-add-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Sourav24hub/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
