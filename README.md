@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sourav24hub/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sourav24hub/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Sourav24hub/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav24hub/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sourav24hub/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Sourav24hub/Leetcode/tree/master/0041-first-missing-positive) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sourav24hub/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav24hub/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sourav24hub/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Sourav24hub/Leetcode/tree/master/0283-move-zeroes) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sourav24hub/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sourav24hub/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sourav24hub/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sourav24hub/Leetcode/tree/master/0217-contains-duplicate) |
