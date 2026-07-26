@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sourav24hub/Leetcode/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/Sourav24hub/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourav24hub/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Sourav24hub/Leetcode/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/Sourav24hub/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sourav24hub/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/Sourav24hub/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/Sourav24hub/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
