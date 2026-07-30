@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Sourav24hub/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Sourav24hub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Sourav24hub/Leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Sourav24hub/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sourav24hub/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Sourav24hub/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Sourav24hub/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Sourav24hub/Leetcode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Sourav24hub/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sourav24hub/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sourav24hub/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -180,12 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Sourav24hub/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Sourav24hub/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sourav24hub/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sourav24hub/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sourav24hub/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Sourav24hub/Leetcode/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Sourav24hub/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Sourav24hub/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sourav24hub/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sourav24hub/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Sourav24hub/Leetcode/tree/master/0844-backspace-string-compare) |
