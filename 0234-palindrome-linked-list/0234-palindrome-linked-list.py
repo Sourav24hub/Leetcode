@@ -1,15 +1,23 @@
 class Solution(object):
     def isPalindrome(self, head):
-        curr = head
-        lis = []
+        if not head or not head.next:
+            return True
+        slow = fast = head
+        while fast.next and fast.next.next:
+            slow = slow.next
+            fast = fast.next.next
+        prev = None
+        curr = slow.next
         while curr:
-            lis.append(curr.val)
-            curr = curr.next
-        left = 0
-        right = len(lis) - 1
-        while left <= right:
-            if lis[left] != lis[right]:
+            nxt = curr.next
+            curr.next = prev
+            prev = curr
+            curr = nxt
+        first = head
+        second = prev
+        while second:
+            if first.val != second.val:
                 return False
-            left += 1
-            right -= 1
+            first = first.next
+            second = second.next
         return True
